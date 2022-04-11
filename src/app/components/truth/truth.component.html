@@ -10,8 +10,9 @@
 
   <div class="flex-group" *ngFor="let truth of truths">
     <div class="topic">
-      <h2>{{truth.title}}</h2>
-      <p *ngFor="let body of truth"
+      <h2 class="title">{{truth.title}}</h2>
+      <hr class="undercut">
+      <p *ngFor="let body of truth.body"
       class="body">{{body}}</p>
  </div>
     <div class="divider"> </div>

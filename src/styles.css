@@ -23,3 +23,15 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .whit{
   background-color: rgb(247, 247, 247) ;
 }
+
+.undertwo{
+  width: 65%;
+  background-image: linear-gradient(60deg, whitesmoke , rgba(0, 0, 0, 0.377) ,  whitesmoke);
+  height: 1px;
+  border-radius: 60px;
+  margin-top: 0px;
+  padding: 0px 10px 0px 0px;
+  border: none;
+}
+
+
