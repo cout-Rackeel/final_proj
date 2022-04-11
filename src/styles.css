@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Dancing+Script&family=Lato:wght@100&family=Montserrat:wght@100;200&family=Poppins:wght@200&family=Source+Sans+3&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: rgb(247, 247, 247);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.blck{
+  --option-1:rgba(51, 51, 51, 0.466);
+  --option-2:#333;
+  background-color: var(--option-2);
+}
+
+.whit{
+  background-color: rgb(247, 247, 247) ;
+}

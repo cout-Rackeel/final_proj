@@ -1,0 +1,54 @@
+#section-1{
+  margin-top: 50px;
+  width: 100%;
+}
+
+.heading{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.heading > h1
+{
+  font-size: 32px;
+  font-family: 'Source Sans 3', sans-serif;
+  letter-spacing: 5px;
+}
+
+hr{
+  width: 90%;
+}
+
+.flex-group{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0rem;
+  margin-bottom: 50px;
+}
+
+.topic,.scripture{
+  width: 45%;
+  min-height: 300px;
+  display: flex;
+  padding: 20px 30px;
+  background-color: white;
+  border: 1px solid lightgray;
+  flex-direction: column;
+  box-shadow: 2px 2px 2px rgba(51, 51, 51, 0.295);
+}
+
+.lower{
+  padding-top: 100px;
+}
+
+.divider{
+ height: 300px;
+ padding: 1px;
+ background-image: repeating-linear-gradient(rgba(255, 0, 0, 0.356),rgba(51, 51, 51, 0.432));
+}
