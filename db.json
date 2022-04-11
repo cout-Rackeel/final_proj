@@ -17,11 +17,18 @@
       "id": 2
     }
   ],
-  "comments": [
+  "truth": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "One God",
+      "body": ["We affirm that there God is One and only one not three persons.",
+      "God created the heavens and the earth alone through his Word by himself there was no one beside him."],
+      "scriptures":[
+        "Deuteronomy 6 vs 4",
+        "John 1 vs 1",
+        "Isaiah 45 vs 5-6",
+        "Genesis 1"
+      ],
+      "id": 1
     }
   ],
   "profile": {

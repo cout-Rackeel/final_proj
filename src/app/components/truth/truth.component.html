@@ -8,27 +8,19 @@
       <hr>
   </div>
 
-  <div class="flex-group">
+  <div class="flex-group" *ngFor="let truth of truths">
     <div class="topic">
-      <h2>One God</h2>
-      <p>We affirm that there God is One and only one not three persons.</p>
-    </div>
+      <h2>{{truth.title}}</h2>
+      <p *ngFor="let body of truth"
+      class="body">{{body}}</p>
+ </div>
     <div class="divider"> </div>
     <div class="scripture">
       <ul>
-        <li>Deuteronomy 6 vs 4</li>
+        <li *ngFor="let scripture of truth.scriptures">{{scripture}}</li>
       </ul>
     </div>
   </div>
 
-  <div class="flex-group">
-    <div class="topic"></div>
-    <div class="divider"> </div>
-    <div class="scripture">
-      <ul>
-        <li>Deuteronomy 6 vs 4</li>
-      </ul>
-    </div>
-  </div>
 
 </section>

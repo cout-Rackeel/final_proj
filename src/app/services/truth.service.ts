@@ -10,7 +10,7 @@ export class TruthService {
     private http: HttpClient
   ) { }
 
-  _url = "http://localhost:3000/comments/"
+  _url = "http://localhost:3000/truth/"
 
   getTruth(){
     return this.http.get<any>(this._url);
