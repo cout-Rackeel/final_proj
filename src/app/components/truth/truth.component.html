@@ -11,13 +11,13 @@
   <div class="flex-group" *ngFor="let truth of truths">
     <div class="topic">
       <h2 class="title">{{truth.title}}</h2>
-      <hr class="undercut">
+      <hr class="undertwo small">
       <p *ngFor="let body of truth.body"
       class="body">{{body}}</p>
- </div>
-    <div class="divider"> </div>
+    </div>
+    <div class="divider"></div>
     <div class="scripture">
-      <ul>
+      <ul class="ul-flexer">
         <li *ngFor="let scripture of truth.scriptures">{{scripture}}</li>
       </ul>
     </div>

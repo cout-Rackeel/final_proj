@@ -27,15 +27,6 @@ text-shadow: 2px 1px 0px aliceblue;
 
 }
 
-.undercut{
-  width: 65%;
-  background-image: linear-gradient(60deg, red , black ,  whitesmoke);
-  height: 3.5px;
-  border-radius: 60px;
-  margin-top: 25px;
-  padding: 0px 10px 0px 0px;
-  border: 1px solid whitesmoke;
-}
 
 #section-1 .part-1 >.big-text-container{
   font-size: 5.5vh;

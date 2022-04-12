@@ -26,9 +26,69 @@
         "Deuteronomy 6 vs 4",
         "John 1 vs 1",
         "Isaiah 45 vs 5-6",
-        "Genesis 1"
+        "Genesis 1",
+        "1 John 5 vs 7",
+        "Isaiah 44 vs 24",
+        "1 John 5 vs 21"
       ],
       "id": 1
+    },
+    {
+      "title": "Salvation",
+      "body": ["To be saved one MUST be born again: which is to be born of the water and of the Spirit.",
+
+      "We affirm that salvation is exclusively found in the body of Jesus Christ through the remission of sin by his blood.",
+
+      "The only way to obtain the blood of Christ is to be baptized in his name not titles."
+
+    ],
+      "scriptures":[
+        "John 3 vs 3,5",
+        "John 14 vs 6",
+        "Acts 2 vs 38 - 40",
+        "Mark 16 vs 16",
+        "Ephesians 1 vs 5,7,10-11",
+        "John 3 vs 16",
+        "Acts 19 vs 2 - 6",
+        "1 Peter 3 vs 21 - 22",
+        "Ephesians 4 vs 5 - 6"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Salvation of Children",
+      "body": ["We affirm that there God is One and only one not three persons.",
+      "God created the heavens and the earth alone through his Word by himself there was no one beside him."],
+      "scriptures":[
+        "Deuteronomy 6 vs 4",
+        "John 1 vs 1",
+        "Isaiah 45 vs 5-6",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1"
+      ],
+      "id": 3
+    },
+
+    {
+      "title": "Holiness",
+      "body": ["We affirm that there God is One and only one not three persons.",
+      "God created the heavens and the earth alone through his Word by himself there was no one beside him."],
+      "scriptures":[
+        "Deuteronomy 6 vs 4",
+        "John 1 vs 1",
+        "Isaiah 45 vs 5-6",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1",
+        "Genesis 1"
+      ],
+      "id": 4
     }
   ],
   "profile": {

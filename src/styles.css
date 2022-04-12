@@ -34,4 +34,12 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
   border: none;
 }
 
-
+.undercut{
+  width: 65%;
+  background-image: linear-gradient(60deg, red , black ,  whitesmoke);
+  height: 3.5px;
+  border-radius: 60px;
+  margin-top: 25px;
+  padding: 0px 10px 0px 0px;
+  border: 1px solid whitesmoke;
+}
