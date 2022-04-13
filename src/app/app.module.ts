@@ -19,6 +19,9 @@ import { TruthComponent } from './components/truth/truth.component';
 
 
 
+
+
+
 @NgModule({
   declarations: [
     AppComponent,

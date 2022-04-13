@@ -15,14 +15,24 @@
       "prayerRequest": "please pray that i may recieve the holy ghost i need him!!",
       "status": "",
       "id": 2
+    },
+    {
+      "name": "b",
+      "title": "b",
+      "date": "2022-04-13T14:36:33.863Z",
+      "prayerRequest": "b",
+      "status": "",
+      "id": 3
     }
   ],
   "truth": [
     {
       "title": "One God",
-      "body": ["We affirm that there God is One and only one not three persons.",
-      "God created the heavens and the earth alone through his Word by himself there was no one beside him."],
-      "scriptures":[
+      "body": [
+        "We affirm that God is One and only one not three persons.",
+        "God created the heavens and the earth alone through his Word by himself there was no one beside him."
+      ],
+      "scriptures": [
         "Deuteronomy 6 vs 4",
         "John 1 vs 1",
         "Isaiah 45 vs 5-6",
@@ -35,14 +45,12 @@
     },
     {
       "title": "Salvation",
-      "body": ["To be saved one MUST be born again: which is to be born of the water and of the Spirit.",
-
-      "We affirm that salvation is exclusively found in the body of Jesus Christ through the remission of sin by his blood.",
-
-      "The only way to obtain the blood of Christ is to be baptized in his name not titles."
-
-    ],
-      "scriptures":[
+      "body": [
+        "To be saved one MUST be born again: which is to be born of the water and of the Spirit.",
+        "We affirm that salvation is exclusively found in the body of Jesus Christ through the remission of sin by his blood.",
+        "The only way to obtain the blood of Christ is to be baptized in his name not titles."
+      ],
+      "scriptures": [
         "John 3 vs 3,5",
         "John 14 vs 6",
         "Acts 2 vs 38 - 40",
@@ -57,9 +65,11 @@
     },
     {
       "title": "Salvation of Children",
-      "body": ["We affirm that there God is One and only one not three persons.",
-      "God created the heavens and the earth alone through his Word by himself there was no one beside him."],
-      "scriptures":[
+      "body": [
+        "We affirm that there God is One and only one not three persons.",
+        "God created the heavens and the earth alone through his Word by himself there was no one beside him."
+      ],
+      "scriptures": [
         "Deuteronomy 6 vs 4",
         "John 1 vs 1",
         "Isaiah 45 vs 5-6",
@@ -72,12 +82,13 @@
       ],
       "id": 3
     },
-
     {
       "title": "Holiness",
-      "body": ["We affirm that there God is One and only one not three persons.",
-      "God created the heavens and the earth alone through his Word by himself there was no one beside him."],
-      "scriptures":[
+      "body": [
+        "We affirm that there God is One and only one not three persons.",
+        "God created the heavens and the earth alone through his Word by himself there was no one beside him."
+      ],
+      "scriptures": [
         "Deuteronomy 6 vs 4",
         "John 1 vs 1",
         "Isaiah 45 vs 5-6",
